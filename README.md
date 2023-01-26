@@ -19,6 +19,14 @@ The Carbonable protocol digitals carbon removal projects as collection of NFTs, 
 
 Carbonable is a decentralized protocol, this allows for transparency in the funding and tracking of carbon offsetting projects. The protocol also automate the process of funding, reporting, tracking and farming of the carbon offsetting projects.
 
+## Docuemntation
+
+You can find the docuemntation [her](https://carbonable.gitbook.io/starknet-smart-contracts/)
+
+## Repo
+
+The repository is in the process of migrating. You can [find it here](https://github.com/Carbonable/carbonable-starknet) for the moment
+
 ## Usage
 
 > ## ⚠️ WARNING! ⚠️
@@ -75,7 +83,7 @@ See also starknet [documentation](https://www.cairo-lang.org/docs/hello_starknet
 cairo-format -i src/**/*.cairo tests/**/**/*.cairo
 ```
 
-### 📝 Documentation
+### 📝 Generate Documentation
 
 #### Requirements
 
