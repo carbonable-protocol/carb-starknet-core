@@ -11,6 +11,14 @@
   <h3 align="center">Carbonable contracts written in Cairo for StarkNet.</h3>
 </div>
 
+## About
+
+Carbonable protocol aims to fund carbon removal projects by using [crowdfunding platform](https://app.carbonable.io/). The protocol allows individuals and organizations to invest in carbon removal projects such as reforestation, mangrove restoration and agroforestry.
+
+The Carbonable protocol digitals carbon removal projects as collection of NFTs, and allows to farm this NFTs to generate carbon credits, that represent a certain amount of carbon dioxide removed from the atmosphere due to this projects. These carbon credits can be sold on a carbon market to generate yield, or allowing individuals and organizations to offset their carbon emissions to becoming carbon neutral.
+
+Carbonable is a decentralized protocol, this allows for transparency in the funding and tracking of carbon offsetting projects. The protocol also automate the process of funding, reporting, tracking and farming of the carbon offsetting projects.
+
 ## Usage
 
 > ## ⚠️ WARNING! ⚠️
