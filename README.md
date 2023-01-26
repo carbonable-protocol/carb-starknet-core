@@ -19,13 +19,27 @@ The Carbonable protocol digitals carbon removal projects as collection of NFTs, 
 
 Carbonable is a decentralized protocol, this allows for transparency in the funding and tracking of carbon offsetting projects. The protocol also automate the process of funding, reporting, tracking and farming of the carbon offsetting projects.
 
-## Docuemntation
+## Documentation
 
 You can find the docuemntation [her](https://carbonable.gitbook.io/starknet-smart-contracts/)
 
 ## Repo
 
 The repository is in the process of migrating. You can [find it here](https://github.com/Carbonable/carbonable-starknet) for the moment
+
+
+## Yiealder v2
+issue : https://github.com/carbonable-protocol/carb-starknet-core/issues/1
+Description of the issue : 
+
+Carbon Credit Vesting is a library designed to facilitate dynamic reward distribution based on a distribution curve. For ex, this library is ideal for projects that aim to reward users for their contributions to carbon neutrality and positive impact on the fight against climate change.
+
+The library allows for the tracking of total project value and how much value has been deposited on the yielder and offset at specific time intervals. This information is then used to calculate how much value has not been deposited between the two snapshots, thus providing a more accurate distribution of rewards.
+
+The library also allows for the implementation of different distribution curves, making it adaptable to different projects and their specific requirements.
+
+In terms of technical requirements, the library is built on Starknet and is used within the Carbonable protocol to manage carbon credit farming.
+
 
 ## Usage
 
