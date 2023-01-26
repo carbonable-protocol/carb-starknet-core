@@ -28,8 +28,9 @@ You can find the docuemntation [her](https://carbonable.gitbook.io/starknet-smar
 The repository is in the process of migrating. You can [find it here](https://github.com/Carbonable/carbonable-starknet) for the moment
 
 
-## Yiealder v2
+## Feature : Yiealder v2
 issue : https://github.com/carbonable-protocol/carb-starknet-core/issues/1
+Responsible : [Bal7hazar ](https://github.com/orgs/carbonable-labs/people/Bal7hazar)
 Description of the issue : 
 
 Carbon Credit Vesting is a library designed to facilitate dynamic reward distribution based on a distribution curve. For ex, this library is ideal for projects that aim to reward users for their contributions to carbon neutrality and positive impact on the fight against climate change.
